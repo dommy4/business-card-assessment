@@ -41,7 +41,7 @@ body {
     max-height: 100%;
     float: right;
   }
- 
+ /*setting the margins to 0*/
   h2,p
   {
       margin: 0;
